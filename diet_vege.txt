@@ -1,0 +1,15 @@
+Name		Kcal	Protein	Fat	Carbs	Sugars	Salt	Fiber
+All		2500	50	70	310	90	2.3	30
+Bread		265	9	3	49	5	0.49	3
+Carrot		41	1	0.2	10	5	0.06	3
+Chocolate	564	5	31	61	48	0.02	7
+French_Fries	312	3.5	15	41	0	0.21	4
+Bean		347	21	1	63	2	0.01	16
+Apple		52	0.3	0.2	14	10	0	2.4
+Orange		47	1	0.1	12	9	0	2.4
+Cola		38	0.1	0	10	9	0	0
+Beer		43	0.5	0	4	0	0	0
+Potato		77	2	0.1	17	1	0.42	2.2
+Rice		130	2.7	0.3	28	0	0	0.4
+Beet		43	1.6	0.2	10	7	0.33	2.8
+
